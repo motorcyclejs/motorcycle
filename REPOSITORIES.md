@@ -4,13 +4,13 @@ This document aims to normalize and maintain high quality
 repositories for the Motorcycle.js project.
 
 ### Table of Contents
-- [Testing](#Testing)
-  - [Preferred Tools](#PreferredTestingTools)
-  - [Continuous Integration](#ContinuousIntegration)
-- [Code Style](#CodeStyle)
-- [NPM Scripts](#NPMScripts)
-- [Dependencies](#Dependencies)
-- [Github Usage](#GithubUsage)
+- [Testing](#testing)
+  - [Preferred Tools](#preferred-testing-tools)
+  - [Continuous Integration](#continuous-integration)
+- [Code Style](#code-style)
+- [NPM Scripts](#npm-scripts)
+- [Dependencies](#dependencies)
+- [Github Usage](#github-usage)
 
 #### Testing
 
@@ -22,7 +22,7 @@ least basic usage of the library in question.
 Although not a requirement, these tools are recommended for keeping
 the tooling the same across Motorcycle.js repositories.
 
-- [EsLint](http://eslint.org/) - [Code Style](#CodeStyle) Checking
+- [EsLint](http://eslint.org/) - [Code Style](#code-style) Checking
 - [Mocha](https://mochajs.org/) - Test Framework
 - [Testem](https://github.com/testem/testem) - Test Runner
 - [Assert](https://github.com/defunctzombie/commonjs-assert) - Assertions
