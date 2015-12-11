@@ -72,6 +72,12 @@ for reference.
 All dependencies **must** be locked down to specific versions to avoid
 unnecessary developer inconsistencies.
 
+Required Dev Dependencies:
+- validate-commit-message : >= 3.0.1 - for `npm start` script
+
+Recommended Dev Dependencies:
+- cli-release : >= 1.0.4 - for `release-*` scripts
+
 #### Github Usage
 
 - **Must** follow our [contributing guidelines](CONTRIBUTING.md).
