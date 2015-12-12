@@ -42,10 +42,10 @@ repositories for the Motorcycle.js project.
    
         git checkout -b develop
 
-8. On Github, choose *New repository*.
+8. On Github, choose **New repository**.
 9. Enter the name of the new repository.
 10. Enter a short description.
-11. Choose *Create repository*.
+11. Choose **Create repository**.
 12. From CLI:
 
         git remote add origin https://github.com/user/repo.git
@@ -54,15 +54,16 @@ repositories for the Motorcycle.js project.
 
 13. Go to [Travis CI](https://travis-ci.org/) and enable 
     the new repository.
-14. Under settings, enable *Build only if .travis.yml is present*.
+14. Under settings, enable 
+    **Build only if .travis.yml is present**.
 15. On Github, navigate to the new repository 
-    and choose *Settings > Branches*. 
-16. Change *Default branch* from *master* to *develop* 
-    and choose *Update*.
-16. Under *Protected branches*, choose *master* branch.
-17. Check *Protect this branch*.
-18. Check *Require status checks to pass before merging*.
-19. Choose *Save changes*.
+    and choose **Settings > Branches**. 
+16. Change **Default branch** from *master* to *develop* 
+    and choose **Update**.
+16. Under **Protected branches**, choose *master* branch.
+17. Check **Protect this branch**.
+18. Check **Require status checks to pass before merging**.
+19. Choose **Save changes**.
 20. Download [gh-label.sh][gh-labels.sh] bash script, and run it.
     This will create the appropriate labels for the repository.
     On request, supply the script with your credentials 
