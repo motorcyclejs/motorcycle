@@ -18,30 +18,30 @@ repositories for the Motorcycle.js project.
 1. Make a new directory with the name of your new repository 
    and navigate to the directory:
 
-       mkdir repo-name && cd $_
+        mkdir repo-name && cd $_
 
 2. From CLI, issue:
    
-       git init
+        git init
 
 3. Create a *README.md* file with a title and description
    of the repository.
 4. Add *README.md* to git:
    
-       git add -A
+        git add -A
 
 5. Make your first commit:
    
-       git commit -m "docs(README): initial commit"
+        git commit -m "docs(README): initial commit"
 
 6. Tag the commit:
    
-       git tag -f v0.0.0
+        git tag -f v0.0.0
 
 7. Create a development branch:
    
-       git checkout -b develop
-       
+        git checkout -b develop
+
 8. On Github, choose *New repository*.
 9. Enter the name of the new repository.
 10. Enter a short description.
