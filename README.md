@@ -9,7 +9,7 @@ If you found an issue or want to contribute code, please read
 the [contributing guidelines](CONTRIBUTING.md).
 
 If would like to have a repository considered for inclusion in the 
-Motorcycle.js Github and NPM organizations please open an issue first to avoid
+Motorcycle.js Github and NPM organizations please, open an issue first to avoid
 duplication of effort and further the possibility of your work being accepted.
 Afterwards, please refer to our [repository guidelines](REPOSITORIES.md).
 
